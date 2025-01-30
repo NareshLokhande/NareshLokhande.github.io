@@ -2,8 +2,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 import Portfolio from "./components/Portfolio";
-import Blog from "./pages/Blog";
-import Skills from "./pages/Skills";
+import Blog from "./components/Blog";
+import Skills from "./components/Skills";
 
 function App() {
   return (
